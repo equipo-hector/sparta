@@ -1,0 +1,177 @@
+body
+{
+background: url("gij.jpg") no-repeat center center fixed;
+background-size: cover;
+margin:0;
+color:#000;
+font:x-small Georgia Serif;
+font-size/* */:/**/small;
+font-size: /**/small;
+text-align: center;
+font-family:"Helveltica",Arial;
+text-align:center;
+
+
+}
+#contenido 
+{
+	width:900px;
+	margin:0 auto;
+	text-align:center;
+}
+h1
+{
+	color:#e44e2d;
+	font-family: 'Russo One', sans-serif;
+}
+header h1 
+{
+	border-bottom:solid;
+	padding-bottom:10px;
+	border-width:1px;
+	border-color:#1d1d1d;
+	text-shadow:0px 0px 30px rgba(0,0,0,0.5);
+}
+nav ul li 
+{
+	display:inline-block;
+	margin-right:20px;
+	color:#FC4908;
+	cursor:pointer;
+	padding:5px;
+	
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	-moz-transition:all 0.5s linear;
+	-o-transition:all 0.5s linear;
+
+}
+nav ul li:hover
+{
+ background-color:#FC4908;
+ color:#E9EC47;
+ border-radius:5px;
+}
+nav ul li a
+{
+	text-decoration:none;
+	
+}
+#textopr
+{
+	width:600px;
+	height:700px;
+	background-color:#1d1d1d;
+	color:#FFF;
+	text-align:left;
+	border-radius:20px;
+	padding:20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,5);
+	
+}
+#texto2
+{	
+	width:600px;
+	height:50px;
+	background-color:#1d1d1d;
+	color:#FFF;
+	text-align:left;
+	border-radius:20px;
+	padding:20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,5);
+	
+}
+#texto25
+{	
+	position:relative; bottom:450px; left:650px;
+	width:200px;
+	height:300px;
+	background-color:#1d1d1d;
+	color:#FFF;
+	text-align:left;
+	border-radius:20px;
+	padding:20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,5);
+}
+a 
+{
+	color:#e44e2;
+	font-weight:bold;
+}
+#mi canvas
+{
+	position: absolute;
+	top:0px;
+	left:0px;
+	bottom:0px;
+	
+	border:solid;
+}
+meter
+{
+	color:#fff;
+	padding:5px;
+	border-radius:5px;
+	margin-left:100px;
+	width:200px;
+	text-align:center;
+
+}
+label
+{
+	display:block;
+}
+#submit
+{
+	border:none;
+	background-color:#fff;
+	color:#e44e2;
+	padding:4px;
+	margin:20px;
+	cursor:pointer;
+	font-family: 'Russo One', sans-serif;
+}
+#reset
+{
+	border:none;
+	background-color:#fff;
+	color:#e44e2;
+	padding:4px;
+	margin:20px;
+	cursor:pointer;
+	font-family: 'Russo One', sans-serif;
+}
+#Calificanos
+{
+	width:150px;
+	-webkit-appereance:none;
+	background-color:#fff;
+	height:20px;
+	cursor:pointer;
+	border-radius:5px;
+}
+#Calificanos:-webkit-slider-thumb
+{
+	webkit-appereance:none;
+	background-color:#e44e2d;
+	border-radius:10px;
+	height:15px;
+	width:10px;
+}
+#mediaC
+{
+  box-sizing:border-box;
+}
+.particion
+{
+	display:inline-block;
+	width:45%;
+}
+#mediaC audio
+{
+	width:200px;
+}
+#mediaC video
+{
+	height:180px;
+}
