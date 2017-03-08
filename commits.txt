@@ -1,0 +1,11 @@
+commit d8bbe36ce56252262afc674fb216c11dd66a2b51
+Author: hector <hectorpaquito1689@gmail.com>
+Date:   Wed Mar 8 15:24:20 2017 -0600
+
+    article agregado y modificado
+
+commit 45ddcaaa0e2166a98c5eabcf8def514bef39c903
+Author: hector <hectorpaquito1689@gmail.com>
+Date:   Wed Mar 8 14:45:43 2017 -0600
+
+    inicialice con init
